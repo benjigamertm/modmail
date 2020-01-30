@@ -243,7 +243,7 @@ class ModmailBot(commands.Bot):
         token = self.config["token"]
         if token is None:
             logger.critical(
-                "TOKEN must be set, set this as bot token found on the Discord Developer Portal."
+                "NjYzMDc2NjM2MzkxODk5MTg2.XjNtUg.wmAyQBEYvcjyZ4nz1piV_htSe4A"
             )
             sys.exit(0)
         return token
